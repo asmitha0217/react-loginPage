@@ -1,0 +1,50 @@
+.firstheading{
+    margin-top: 180px;
+    margin-left: 110px;
+    font-size: 40px;
+}
+.para{
+    margin-left: 110px;
+    /* font-size: 20px; */
+}
+span{
+    color: green;
+}
+.container{
+    margin-left: 110px;
+    
+}
+.box1{
+    padding: 10px;
+    /* padding-left: 100px; */
+    padding-right: 200px;
+    border-radius: 5px;
+    
+}
+.box{
+    color: grey;
+    margin: 0;
+}
+.image{
+    height: 10px;
+    width:10px;
+}
+.button1{
+    padding: 10px;
+    padding-left: 140px;
+    padding-right: 140px;
+    background-color: black;
+    color: white !important;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-decoration: none !important;
+    
+}
+.img{
+    float: right;
+    margin-right: 60px;
+}
+/* .phone{
+    width: 2%;
+    padding:6%;
+} */
